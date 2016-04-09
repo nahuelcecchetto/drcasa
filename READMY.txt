@@ -1,3 +1,4 @@
 prueba1
-ok: resuelvo inconveniente
+ok: resuelvo
+
 
